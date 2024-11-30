@@ -1,0 +1,53 @@
+:root {
+    --background-color: white;
+    --text-color: black;
+}
+
+body {
+    font-family: Arial, sans-seif;
+    text-align: center;
+    margin: 20px;
+    background-color: var(--background-color);
+    color: var(--text-color);
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+/* Farbschema */
+body.light {
+    --background-color: white;
+    --text-color: black;
+}
+
+body.dark {
+    --background-color: #121212;
+    --text-color: white;
+}
+
+body.blue {
+    --background-color: #003366;
+    --text-color: white;
+}
+
+body.green {
+    --background-color: #006400;
+    --text-color: white;
+}
+#content-container {
+    margin-top: 20px;
+}
+
+#counter {
+    font-size: 48px;
+    color: #333;
+}
+
+button {
+    padding: 10px 20px;
+    margin: 5px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #f0f0f0;
+}
