@@ -1,77 +1,77 @@
-# Counter-Anwendung
+# Counter Application
 
-Dies ist eine einfache Counter-Anwendung, die mit JavaScript, HTML und CSS erstellt wurde. Sie bietet grundlegende Funktionen zum Erhöhen, Verringern, Zurücksetzen des Zählers und zum Auswählen verschiedener Farbschemata für die Benutzeroberfläche.
+This is a simple counter application created using JavaScript, HTML, and CSS. It offers basic functionalities to increase, decrease, reset the counter, and select different color schemes for the user interface.
 
-## Funktionen
+## Features
 
-- **Erhöhen-Button (+1):** Erhöht den Zähler um 1.
-- **Verringern-Button (-1):** Verringert den Zähler um 1.
-- **Zurücksetzen-Button:** Setzt den Zähler auf null zurück.
-- **Farbschema-Auswahl:** Ermöglicht es den Benutzern, das Farbschema der Benutzeroberfläche zu ändern.
+- **Increase Button (+1):** Increases the counter by 1.
+- **Decrease Button (-1):** Decreases the counter by 1.
+- **Reset Button:** Resets the counter to zero.
+- **Color Scheme Selection:** Allows users to change the color scheme of the user interface.
 
 ## Installation
 
-Um diese Anwendung zu nutzen, gehen Sie wie folgt vor:
+To use this application, follow these steps:
 
-1. Klonen Sie das Repository:
+1. Clone the repository:
    ```bash
    git clone https://github.com/massimosor/counter.git
    ```
 
-2. Wechseln Sie in das Projektverzeichnis:
+2. Navigate to the project directory:
    ```bash
    cd counter
    ```
 
-3. Öffnen Sie die Datei `index.html` in Ihrem bevorzugten Webbrowser, um die Anwendung anzuzeigen und zu nutzen.
+3. Open the `index.html` file in your preferred web browser to view and use the application.
 
-## Nutzung
+## Usage
 
-- Klicken Sie auf den **+1**-Button, um den Zähler zu erhöhen.
-- Klicken Sie auf den **-1**-Button, um den Zähler zu verringern.
-- Nutzen Sie den **Zurücksetzen**-Button, um den Zähler auf null zu setzen.
-- Wählen Sie ein Farbschema aus, das Ihren Vorlieben entspricht.
+- Click the **+1** button to increase the counter.
+- Click the **-1** button to decrease the counter.
+- Use the **Reset** button to reset the counter to zero.
+- Choose a color scheme that suits your preferences.
 
-## Projektstruktur
+## Project Structure
 
 ```
 .
-├── index.html      # Die Haupt-HTML-Datei
-├── style.css       # Stylesheet der Anwendung
-├── script.js       # JavaScript-Funktionalität
-└── README.md       # Projektdokumentation
+├── index.html      # The main HTML file
+├── style.css       # Stylesheet of the application
+├── script.js       # JavaScript functionality
+└── README.md       # Project documentation
 ```
 
-## Verwendete Technologien
+## Technologies Used
 
-- **HTML:** Struktur der Anwendung.
-- **CSS:** Styling und Layout.
-- **JavaScript:** Anwendungslogik und Interaktivität.
+- **HTML:** Structure of the application.
+- **CSS:** Styling and layout.
+- **JavaScript:** Application logic and interactivity.
 
-## Beitragen
+## Contributing
 
-Beiträge sind willkommen! Wenn Sie Ideen für Verbesserungen oder neue Funktionen haben:
+Contributions are welcome! If you have ideas for improvements or new features:
 
-1. Forken Sie das Repository.
-2. Erstellen Sie einen neuen Branch für Ihre Funktion oder Fehlerbehebung:
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix:
    ```bash
    git checkout -b feature-name
    ```
-3. Committen Sie Ihre Änderungen:
+3. Commit your changes:
    ```bash
    git commit -m "Add some feature"
    ```
-4. Pushen Sie den Branch in Ihren Fork:
+4. Push the branch to your fork:
    ```bash
    git push origin feature-name
    ```
-5. Öffnen Sie eine Pull-Request im Original-Repository.
+5. Open a pull request in the original repository.
 
-## Lizenz
+## License
 
-Dieses Projekt ist unter der [MIT-Lizenz](LICENSE) lizenziert.
+This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Bei Fragen oder Vorschlägen können Sie sich gerne melden!
+If you have any questions or suggestions, feel free to reach out!
 
